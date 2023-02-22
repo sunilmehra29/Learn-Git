@@ -1,2 +1,2 @@
 this is a sample text file, nothing else.
-This is I added to check Kyle stuff.
+Deleted these stuff from last commit.
